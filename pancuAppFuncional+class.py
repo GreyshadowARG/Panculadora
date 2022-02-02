@@ -2,7 +2,7 @@ from tkinter import *
 import tkinter as tk
 import math
 
-#hola
+#hola, este es el primer programa creado por Facundo Viale.
 
 class Panculadora():
     def __init__(self):
